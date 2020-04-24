@@ -1,0 +1,4 @@
+<div *ngFor='let product of productList'>
+  <app-product-detail-card [product]="product" (filteredProductList)="onfilteredProductList($event)" (qty)="onQuantity($event)" (ttl)="onTotal($event)"></app-product-detail-card>
+</div>
+<app-checkout-card [quantity]="qty" [total]="ttl"></app-checkout-card>

@@ -1,0 +1,12 @@
+<div class="product-quantity">
+  <div class="left-half">
+    <button class="btn-add-cart" (click)="addCart(product)">ADD CART</button>
+  </div>
+  <div class="right-half">
+    <ul id="horizontal-list">
+      <li><button class="circle" (click)="addCart(product)">+</button></li>
+      <li class="quantity-count"> {{product.quantity}} </li>
+      <li><button class="circle" (click)="removeCart(product)">-</button></li>
+    </ul>
+  </div>
+</div>

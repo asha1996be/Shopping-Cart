@@ -1,0 +1,53 @@
+.container {
+  margin: 40px;
+  height: 44vh;
+}
+
+.product-image {
+  float: left;
+  position: relative;
+
+  .prdImg {
+    max-width: 100%;
+    border: 1px solid #d3d3;
+  }
+}
+
+.product-detail {
+  float: left;
+  margin-left: 100px;
+  line-height: 40px;
+  font-size: 26px;
+
+  .product-brandName {
+    color: #64cd33;
+  }
+
+  .product-discountedPrice {
+    font-weight: 600;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  .product-detail {
+    margin-left: 0px;
+    font-size: 18px;
+    line-height: 28px;
+  }
+
+  .container {
+    height: 74vh;
+  }
+}
+
+@media only screen and (max-width: 375px) {
+  .product-detail {
+    margin-left: 0px;
+    font-size: 20px;
+    line-height: 28px;
+  }
+
+  .container {
+    height: 74vh;
+  }
+}

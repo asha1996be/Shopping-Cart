@@ -1,0 +1,16 @@
+<div class="container">
+  <div class="product-image">
+    <div class="product-img">
+      <img [src]="product.imageUrl" [alt]="product.productName" class="prdImg">
+    </div>
+    <span style="font-size: 20px;">{{ product.offerPercent}} OFF</span>
+  </div>
+  <div class="product-detail">
+    <div class="product-brandName">{{ product.brandName }}</div>
+    <div>{{ product.productName }}</div>
+    <div>MRP : &#8377;{{ product.mrp }}</div>
+    <div>Discounted Price: &#8377;<span class="product-discountedPrice">{{ product.discountedPrice }}</span></div>
+    <app-product-quantity-card [product]="product" (filteredProduct)="OnfilteredProduct($event)" (quantity)="onQuantity($event)" (total)="onTotal($event)"></app-product-quantity-card>
+  </div>
+</div>
+<hr>

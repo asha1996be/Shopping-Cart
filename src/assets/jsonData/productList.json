@@ -1,0 +1,91 @@
+[
+{
+  "productId": "50001",
+  "imageUrl": "assets/images/AllOut.jpg",
+  "brandName": "All Out",
+  "productName": "All Out Ultra Power + Fan Mosquito Repellent(Refill)",
+  "mrp": 390,
+  "discountedPrice": 320,
+  "offerPercent": "17%"
+},
+{
+  "productId": "50002",
+  "imageUrl": "assets/images/Dove.jpg",
+  "brandName": "Dove",
+  "productName": "Dove Cream Beauty Bathing Bar Soap - Pack of 3",
+  "mrp": 155,
+  "discountedPrice": 145,
+  "offerPercent": "6%"
+},
+{
+  "productId": "50003",
+  "imageUrl": "assets/images/HimalayaShampoo.jpg",
+  "brandName": "Himalaya",
+  "productName": "Himalaya Gentle Baby Shampoo",
+  "mrp": 300,
+  "discountedPrice": 266,
+  "offerPercent": "11%"
+},
+{
+  "productId": "50004",
+  "imageUrl": "assets/images/KissonMixedFruitJam.jpg",
+  "brandName": "Kissan",
+  "productName": "Kissan Mixed Fruit Jam",
+  "mrp": 200,
+  "discountedPrice": 180,
+  "offerPercent": "10%"
+},
+{
+  "productId": "50005",
+  "imageUrl": "assets/images/LiptonGreenTea.jpg",
+  "brandName": "Lipton",
+  "productName": "Lipton Honey Lemon Green Tea Bags",
+  "mrp": 150,
+  "discountedPrice": 128,
+  "offerPercent": "14%"
+},
+{
+  "productId": "50006",
+  "imageUrl": "assets/images/Muesli.jpg",
+  "brandName": "Muesli",
+  "productName": "Fruit & Nut Muesli",
+  "mrp": 300,
+  "discountedPrice": 274,
+  "offerPercent": "8%"
+},
+{
+  "productId": "50007",
+  "imageUrl": "assets/images/ParachuteCoconutOil.jpg",
+  "brandName": "Parachute",
+  "productName": "Parachute Coconut Oil -Free 100ml Pack -Brand Offer",
+  "mrp": 300,
+  "discountedPrice": 30,
+  "offerPercent": "10%"
+},
+{
+  "productId": "50008",
+  "imageUrl": "assets/images/QuakerOats.jpg",
+  "brandName": "Quaker",
+  "productName": "Quaker Oats",
+  "mrp": 200,
+  "discountedPrice": 180,
+  "offerPercent": "10%"
+},
+{
+  "productId": "50009",
+  "imageUrl": "assets/images/SurfExcel.jpg",
+  "brandName": "Surf Excel",
+  "productName": "Surf Excel Matic Top Load Detergent Powder",
+  "mrp": 449,
+  "discountedPrice": 329,
+  "offerPercent": "26%"
+},
+{
+  "productId": "50010",
+  "imageUrl": "assets/images/VimGel.jpg",
+  "brandName": "Vim",
+  "productName": "Vim Lemon Dishwash Gel",
+  "mrp": 160,
+  "discountedPrice": 150,
+  "offerPercent": "6%"
+}]
