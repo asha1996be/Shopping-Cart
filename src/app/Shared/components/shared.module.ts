@@ -12,7 +12,7 @@ const components = [
   ];
 
 @NgModule({
-    declarations: [...components, CheckoutCardComponent, CheckoutPopupComponent],
+    declarations: [...components],
     exports: [...components]
 })
 export class SharedModule { }
